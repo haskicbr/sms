@@ -4,6 +4,8 @@
 **virtual host public directory**
 
 **create db settings config/main**
+**db file sql**
+
 
 `cd ./react`
 
