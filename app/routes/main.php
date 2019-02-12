@@ -6,8 +6,6 @@
 use App\Controllers\SmsController;
 
 $app->get('/', function ($req, $res) {
-
-
     $template = "./../public/index.html";
 
     return file_get_contents($template);
